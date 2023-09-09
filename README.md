@@ -17,10 +17,5 @@ This Arduino project creates a simple binary LED display where the user can inpu
 ## Example
 - If you enter `5`, the binary LED display will look like this: `0101`.
 
-## Circuit Diagram
-- ![Circuit Diagram](link-to-your-circuit-diagram-image)
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+## Contributing
 Feel free to contribute, improve, or modify this project as you see fit.
